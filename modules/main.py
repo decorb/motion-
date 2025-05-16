@@ -148,7 +148,7 @@ async def start(client: Client, msg: Message):
     await asyncio.sleep(1)
     await start_message.edit_text(
         Data.START.format(msg.from_user.mention) +
-        "Checking status Ok... Command Nhi Bataunga **Bot Made BY ⋆𝐒𝐀𝐌𝐄𝐄𝐑❥𝐉𝐈✦⋆**🔍\n\n"
+        "Checking status Ok... Command Nhi Bataunga **Bot Made BY ⋆RAM✦KUMAR✦⋆**🔍\n\n"
         "Progress:[🟩🟩🟩🟩🟩🟩🟩🟩🟩] 100%\n\n"
     )
 
@@ -310,8 +310,8 @@ async def txt_handler(bot: Client, m: Message):
 
             try:  
                 
-                cc = f'**🎞️ VID_ID:\n╭─────╮**\n✦ {str(count).zfill(3)}.✦\n**╰─────╯\n\n🌺 𝗟𝗘𝗖 𝗡𝗔𝗠𝗘 ➺ {name1} \n├── Resolution➥{res}\n├── Extention➥@BABA_ASP.mkv\n\n<pre><code>📚 𝗕𝗔𝗧𝗖𝗛 𝗡𝗔𝗠𝗘➺ {b_name}</code></pre>\n\n📥 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐁𝐘 ➽ \n\n╭──────────.★..─╮**\n\n✦{CR}✦\n\n**╰─..★.──────────╯\n\n**≻〉 ⎯⎯⎯⎯⎯⎯ ⋆𝐒𝐀𝐌𝐄𝐄𝐑❥𝐉𝐈✦⋆ ⎯⎯⎯⎯⎯⎯ 〈≺'
-                cc1 = f'**📁 PDF_ID:\n╭─────╮**\n✦ {str(count).zfill(3)}✦\n**╰─────╯.\n\n🍂 𝗣𝗗𝗙 𝗡𝗔𝗠𝗘 ➺ {name1} \n├── Extention➥@BABA_ASP.pdf\n\n<pre><code>📚 𝗕𝗔𝗧𝗖𝗛 𝗡𝗔𝗠𝗘➺ {b_name}</code></pre>\n\n📥 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐁𝐘 ➽ \n\n╭──────────.★..─╮**\n\n✦{CR}✦\n\n**╰─..★.──────────╯\n\n**≻〉 ⎯⎯⎯⎯⎯⎯ ⋆𝐒𝐀𝐌𝐄𝐄𝐑❥𝐉𝐈✦⋆ ⎯⎯⎯⎯⎯⎯ 〈≺**'
+                cc = f'**🎞️ VID_ID:\n╭─────╮**\n✦ {str(count).zfill(3)}.✦\n**╰─────╯\n\n🌺 𝗟𝗘𝗖 𝗡𝗔𝗠𝗘 ➺ {name1} \n├── Resolution➥{res}\n├── Extention➥@RAM_TECH.mkv\n\n<pre><code>📚 𝗕𝗔𝗧𝗖𝗛 𝗡𝗔𝗠𝗘➺ {b_name}</code></pre>\n\n📥 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐁𝐘 ➽ \n\n╭──────────.★..─╮**\n\n✦{CR}✦\n\n**╰─..★.──────────╯\n\n**≻〉 ⎯⎯⎯⎯⎯⎯ ⋆RAM✦KUMAR✦⋆ ⎯⎯⎯⎯⎯⎯ 〈≺'
+                cc1 = f'**📁 PDF_ID:\n╭─────╮**\n✦ {str(count).zfill(3)}✦\n**╰─────╯.\n\n🍂 𝗣𝗗𝗙 𝗡𝗔𝗠𝗘 ➺ {name1} \n├── Extention➥@RAM_TECH.pdf\n\n<pre><code>📚 𝗕𝗔𝗧𝗖𝗛 𝗡𝗔𝗠𝗘➺ {b_name}</code></pre>\n\n📥 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐁𝐘 ➽ \n\n╭──────────.★..─╮**\n\n✦{CR}✦\n\n**╰─..★.──────────╯\n\n**≻〉 ⎯⎯⎯⎯⎯⎯ ⋆RAM✦KUMAR✦⋆ ⎯⎯⎯⎯⎯⎯ 〈≺**'
                     
                 
                 if "drive" in url:
@@ -373,7 +373,7 @@ async def txt_handler(bot: Client, m: Message):
                         continue                       
                           
                 else:
-                    Show = f"❊⇅ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡𝗚 🤘❊ »\n\n☪ Title:- `{name}\n\n💎 𝐐𝐮𝐥𝐢𝐭𝐲 » {raw_text2}`\n\n**🔗 𝐔𝐑𝐋 »** `{url}`\n\n**𝐁𝐨𝐭 𝐌𝐚𝐝𝐞 𝐁𝐲 ✦ ➥@BABA_ASP\n\n🤴 बेनाम बादशा♚"
+                    Show = f"❊⇅ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗜𝗡𝗚 🤘❊ »\n\n☪ Title:- `{name}\n\n💎 𝐐𝐮𝐥𝐢𝐭𝐲 » {raw_text2}`\n\n**🔗 𝐔𝐑𝐋 »** `{url}`\n\n**𝐁𝐨𝐭 𝐌𝐚𝐝𝐞 𝐁𝐲 ✦ ➥@RAM_TECH\n\n🤴 बेनाम बादशा♚"
                     prog = await m.reply_text(Show)
                     res_file = await helper.download_video(url, cmd, name)
                     filename = res_file
@@ -455,7 +455,7 @@ async def txt_handler(bot: Client, m: Message):
     except Exception:
             res = "UN"
     
-    await editable.edit("**Enter Your Name or send 'de' for use default.\n Eg : 𝐒𝐀𝐌𝐄𝐄𝐑❥𝐉𝐈**")
+    await editable.edit("**Enter Your Name or send 'de' for use default.\n Eg : RAM✦KUMAR**")
     input3: Message = await bot.listen(editable.chat.id)
     raw_text3 = input3.text
     await input3.delete(True)
@@ -544,8 +544,8 @@ async def txt_handler(bot: Client, m: Message):
 
             try:  
                 
-                cc = f'**\n╭─────╮**\n✦ {str(count).zfill(3)}.✦\n**╰─────╯\n\n🌺 𝗟𝗘𝗖 𝗡𝗔𝗠𝗘 ➺ {name1} \n├── Resolution➥{res}\n├── Extention➥@BABA_ASP.mkv\n\n<pre><code>📚 𝗕𝗔𝗧𝗖𝗛 𝗡𝗔𝗠𝗘➺ {b_name}</code></pre>\n\n📥 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐁𝐘 ➽\n\n༶•┈┈⛧┈♛┈⛧┈┈•༶**\n\n {CR}✦\n\n**༶•┈┈⛧┈♛┈⛧┈┈•༶\n\n**≻〉 ⎯⎯⎯⎯⎯⎯ ⋆𝐒𝐀𝐌𝐄𝐄𝐑❥𝐉𝐈✦⋆ ⎯⎯⎯⎯⎯⎯ 〈≺'
-                cc1 = f'**\n╭─────╮**\n✦ {str(count).zfill(3)}✦\n**╰─────╯.\n\n🍂 𝗣𝗗𝗙 𝗡𝗔𝗠𝗘 ➺ {name1} \n├── Extention➥@BABA_ASP.pdf\n\n<pre><code>📚 𝗕𝗔𝗧𝗖𝗛 𝗡𝗔𝗠𝗘➺ {b_name}</code></pre>\n\n📥 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐁𝐘 ➽ \n\n༶•┈┈⛧┈♛┈⛧┈┈•༶**\n\n{CR}✦\n\n**༶•┈┈⛧┈♛┈⛧┈┈•༶\n\n**≻〉 ⎯⎯⎯⎯⎯⎯ ⋆𝐒𝐀𝐌𝐄𝐄𝐑❥𝐉𝐈✦⋆ ⎯⎯⎯⎯⎯⎯ 〈≺**'
+                cc = f'**\n╭─────╮**\n✦ {str(count).zfill(3)}.✦\n**╰─────╯\n\n🌺 𝗟𝗘𝗖 𝗡𝗔𝗠𝗘 ➺ {name1} \n├── Resolution➥{res}\n├── Extention➥@RAM_TECH.mkv\n\n<pre><code>📚 𝗕𝗔𝗧𝗖𝗛 𝗡𝗔𝗠𝗘➺ {b_name}</code></pre>\n\n📥 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐁𝐘 ➽\n\n༶•┈┈⛧┈♛┈⛧┈┈•༶**\n\n {CR}✦\n\n**༶•┈┈⛧┈♛┈⛧┈┈•༶\n\n**≻〉 ⎯⎯⎯⎯⎯⎯ ⋆RAM✦KUMAR✦⋆ ⎯⎯⎯⎯⎯⎯ 〈≺'
+                cc1 = f'**\n╭─────╮**\n✦ {str(count).zfill(3)}✦\n**╰─────╯.\n\n🍂 𝗣𝗗𝗙 𝗡𝗔𝗠𝗘 ➺ {name1} \n├── Extention➥@RAM_TECH.pdf\n\n<pre><code>📚 𝗕𝗔𝗧𝗖𝗛 𝗡𝗔𝗠𝗘➺ {b_name}</code></pre>\n\n📥 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 𝐁𝐘 ➽ \n\n༶•┈┈⛧┈♛┈⛧┈┈•༶**\n\n{CR}✦\n\n**༶•┈┈⛧┈♛┈⛧┈┈•༶\n\n**≻〉 ⎯⎯⎯⎯⎯⎯ ⋆RAM✦KUMAR✦⋆ ⎯⎯⎯⎯⎯⎯ 〈≺**'
                     
                 
                 if "drive" in url:
@@ -607,7 +607,7 @@ async def txt_handler(bot: Client, m: Message):
                         continue                       
                           
                 else:
-                    Show = f"❊⟱ 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ⟱❊ »\n\n📄 Title:- `{name}\n\n⌨ 𝐐𝐮𝐥𝐢𝐭𝐲 » {raw_text2}`\n\n**🔗 𝐔𝐑𝐋 »** `{url}`\n\n**𝐁𝐨𝐭 𝐌𝐚𝐝𝐞 𝐁𝐲 ✦ ➥@BABA_ASP\n\n🤴 बेनाम बादशा♚"
+                    Show = f"❊⟱ 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ⟱❊ »\n\n📄 Title:- `{name}\n\n⌨ 𝐐𝐮𝐥𝐢𝐭𝐲 » {raw_text2}`\n\n**🔗 𝐔𝐑𝐋 »** `{url}`\n\n**𝐁𝐨𝐭 𝐌𝐚𝐝𝐞 𝐁𝐲 ✦ ➥@RAM_TECH\n\n🤴 बेनाम बादशा♚"
                     prog = await m.reply_text(Show)
                     res_file = await helper.download_video(url, cmd, name)
                     filename = res_file
